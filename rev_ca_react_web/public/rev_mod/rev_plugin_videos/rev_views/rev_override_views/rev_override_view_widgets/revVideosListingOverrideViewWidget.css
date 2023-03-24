@@ -1,0 +1,41 @@
+.revVideoContainer {
+    margin-top: 1px;
+}
+
+.revVideoWrapperStyle {
+    background-color: #fff;
+    width: 100% !important;
+}
+
+.revVidItemStyle {
+    background-color: #000;
+    padding: 0;
+    margin: 0;
+    display: block;
+    outline: none;
+    width: 100% !important;
+    object-fit: cover;
+}
+
+.revPlayCountStatsWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 0.4em 0 0 1em;
+}
+
+.revTotPlayCountStatsWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revPlayStatusWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 0.4em 0 0 1em;
+}
+
+.revPlayProgressStatsWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 0.4em 0 1em 1em;
+}
